@@ -2,7 +2,7 @@ literally Just put the three files in a folder and go to the extension settings 
 
 Vibed :T sorry
 
-Note doesn't work on reddit's site but does with on Reddit links
+Note doesn't work on reddit's site but does on Reddit links
 
 Works With YT,Amazon,Ebay,Reddit(Links only, not pasting to site), Twitter/X, Facebook(should), Instagram,
 
