@@ -6,7 +6,7 @@
 const TRACKER_PARAMS = new Set([
   'utm_source','utm_medium','utm_campaign','utm_content','utm_term',
   'utm_id','utm_name','utm_placement',
-  'fbclid','gclid','msclkid','twclid','igshid','mc_cid','mc_eid',
+  'fbclid','gclid','msclkid','twclid','igshid','igsh','mc_cid','mc_eid',
   'mkt_tok','_gl','gad','gad_source','wbraid','gbraid','epik','clickid',
   'ref_src','ref_url','fb_action_ids','fb_action_types','fb_source','fbadid',
   'trackingid','trk','sk','feature','ref_',
@@ -26,11 +26,11 @@ const DOMAIN_PARAMS_RAW = new Map([
   ['x.com',          ['t','s','ref_src','ref_url']],
   ['reddit.com',     ['share','rdt']],                          // removed: context (shows parent comments), sort (functional)
   ['spotify.com',    ['si','sp_cid']],
-  ['facebook.com',   ['fbclid','fb_action_ids','fb_action_types','fb_source']],
+  ['facebook.com',   ['fbclid','fb_action_ids','fb_action_types','fb_source','rdid','share_url']],
   ['linkedin.com',   ['trackingId','trk','trkInfo','lipi','licu']],
   ['pinterest.com',  ['rwa_pos','epik','clickId']],
   ['tiktok.com',     ['sec_user_id']],
-  ['instagram.com',  ['igshid']],
+  ['instagram.com',  ['igshid','igsh']],
   ['twitch.tv',      ['tt']],
   ['medium.com',     ['sk']],
   ['github.com',     ['cid']],
