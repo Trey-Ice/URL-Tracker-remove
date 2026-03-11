@@ -1,10 +1,10 @@
-literally Just put the three files in a folder and go to the extension settings and unpack the folder
+literally Just put the three files(background.js, contentscript.js, manifest.json) in a folder and go to the extension settings and unpack the folder
 
-Vibed :T sorry
+Vibed :T
 
 Note doesn't work on reddit's site but does on Reddit links
 
-Works With YT,Amazon,Ebay,Reddit(Links only, not pasting to site), Twitter/X, Facebook(should), Instagram,
+Works With YT,Amazon,Ebay,Reddit(Links only, not pasting to site), Twitter/X, Facebook(should), Instagram links.
 
 
 
